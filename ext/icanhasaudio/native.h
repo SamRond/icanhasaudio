@@ -13,7 +13,6 @@
 #include <lame/lame.h>
 #include <dlfcn.h>
 #include <assert.h>
-#include <vorbis/vorbisfile.h>
 
 #include <get_audio.h>
 #include <rb_wav.h>
